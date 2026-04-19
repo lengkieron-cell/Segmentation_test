@@ -1,4 +1,5 @@
 This project demonstrates the implementation of an end-to-end deep learning pipeline for semantic segmentation, originally developed for identifying rooftops in geospatial datasets as a proof-of-concept for high-accuracy feature extraction. By leveraging and adapting industry-standard open-source architectures, I focused on the engineering challenges of 'getting the model running' in a real-world context—specifically handling environment dependencies, optimizing data pipelines for large-scale imagery, and tuning hyperparameters for robust performance. This framework serves as the foundational architecture for my current transition into Medical Imaging, where I am applying these same transfer-learning principles to address class imbalance and diagnostic accuracy in dermatological datasets.
 
 Base Implementation: Adapted from the Kaggle notebook by SlyveinWeeb.
+
 Task: Originally designed for rooftop segmentation, this implementation served as my core framework for understanding high-resolution feature extraction.
