@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+detections/
+detections_test_set/
+detections_unseen/
